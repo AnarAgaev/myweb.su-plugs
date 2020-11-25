@@ -1,0 +1,22 @@
+//- Animation functions
+$fnc-primary                 : cubic-bezier(0.075, 0.82, 0.165, 1);
+$fnc-animation               : all .4s cubic-bezier(0.075, 0.82, 0.165, 1);
+$fnc-line                    : all .3s linear;
+
+// Colors
+$clr-font                   : #000;
+$clr-accent                 : #f1852c;
+$clr-light                  : #fff;
+
+
+// Fonts
+$fnt-main                   : 'Roboto', sans-serif;;
+$fnt-secondary              : 'Source Sans Pro', sans-serif;;
+
+
+// Media quires
+$xxl                        : 1250px;
+$xl                         : 1200px;
+$lg                         : 992px;
+$md                         : 768px;
+$sm                         : 576px;
